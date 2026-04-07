@@ -42,7 +42,7 @@ vim deploy/terraform.tfvars
 
 **⚠️ Required Changes in `deploy/terraform.tfvars`:**
 - Replace `YOUR_ACCOUNT_ID` with your AWS Account ID (12-digit number from Step 2)
-- Replace `YOUR_REGION` with your preferred AWS region (e.g., `us-east-1`, `ap-northeast-2`)
+- Replace `YOUR_REGION` with your preferred AWS region (e.g., `ap-northeast-2`, `ap-northeast-2`)
 - Change `CHANGE_ME_TO_SECURE_PASSWORD` to a secure database password
 - Change `CHANGE_ME_TO_SECURE_JWT_SECRET` to a secure JWT secret
 

@@ -25,6 +25,7 @@ public class CodePlaygroundApplication {
      * @param args 명령줄 인수
      */
     public static void main(final String[] args) {
+        System.out.println("딩코딩코 화이팅");
         SpringApplication.run(CodePlaygroundApplication.class, args);
     }
 }
